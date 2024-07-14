@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="hangar" name="Hangar Left" lat="N12 39.86058060" lon="E77 45.92037360" heading="188" radius="14"/>
+		<Parking index="1" type="hangar" name="Hangar Right" lat="N12 39.86283180" lon="E77 45.89839140" heading="188" radius="14"/>
+		<Parking index="2" type="hangar" name="Hangar" lat="N12 39.87079380" lon="E77 45.86075940" heading="187" radius="18"/>
+		<Parking index="3" type="gate" name="G1" lat="N12 39.85006260" lon="E77 45.92002260" heading="8" radius="14"/>
+		<Parking index="4" type="gate" name="G2" lat="N12 39.85140600" lon="E77 45.90804420" heading="8" radius="14"/>
+		<Parking index="5" type="gate" name="G3" lat="N12 39.85284180" lon="E77 45.89691840" heading="8" radius="14"/>
+		<Parking index="6" type="misc" name="C1" lat="N12 39.84938100" lon="E77 45.83292300" heading="7" radius="18"/>
+		<Parking index="7" type="misc" name="C2" lat="N12 39.83191620" lon="E77 45.84884340" heading="97" radius="18"/>
+	</parkingList>
+</groundnet>
